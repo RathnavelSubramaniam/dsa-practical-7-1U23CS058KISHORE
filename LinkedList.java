@@ -92,7 +92,7 @@ newNode.next=temp;
 newNode.next=temp.next;
 temp.next=newNode;
         }
-System.out.println("Element Inserted");
+ System.out.println("Element Inserted");
     }
 
 public void displayList() {
